@@ -379,4 +379,4 @@ client.on('message', message =>{
     }
 });
 
-client.login("your token");
+client.login("Nzc0MDE3NjEyNTUxNjg0MTE4.X6RqEw.ehlH7j0l5ml-n4K_lQr53DrKhnk");
